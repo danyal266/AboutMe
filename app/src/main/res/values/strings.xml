@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Introduction">Hi My name is Danyal Zafar.  I Love Fish\nMy Country name is Pakistan.pakistan is Very Beautiful Country.\n I like the Northern Areas.\nPakistani primeMinister Name is Imran Khan \n I like the programing and android development.\n I like biryani and Other things.</string>
+    <string name="name">Danyal Zafar</string>
+    <string name="what_is_your_nickname">What is Your Nickname?</string>
+    <string name="Button">done</string>
+
+
+</resources>
